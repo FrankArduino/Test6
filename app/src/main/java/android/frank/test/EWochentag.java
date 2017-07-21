@@ -1,6 +1,6 @@
 package android.frank.test;
 
-enum EWochentag {
+public enum EWochentag {
     MONTAG,
     DIENSTAG,
     MITTWOCH,

@@ -11,9 +11,9 @@ public class MainActivity2 extends AppCompatActivity {
 
     private TextView mTextMessage;
 
-    EWochentag wt=EWochentag.MITTWOCH;
+//    EWochentag wt=EWochentag.MITTWOCH;
 
-    String tag= String.valueOf(wt.ordinal());
+//    String tag= String.valueOf(wt.ordinal());
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
